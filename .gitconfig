@@ -1,0 +1,9 @@
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	required = true
+	clean = git-lfs clean -- %f
+[user]
+	name = Vikrant Kulkarni
+	email = kulkarnivikrant87@gmail.com
+[core]
+	editor = emacs
