@@ -3,3 +3,5 @@ this is my first check in
 add stage
 
 this is third change
+
+git remote
