@@ -10,3 +10,5 @@ git remote
 commit 2
 
 cmd
+
+next cmd
